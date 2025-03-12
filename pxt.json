@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-TPBot": "github:elecfreaks/pxt-tpbot#v2.0.3"
     },
     "files": [
         "main.blocks",
